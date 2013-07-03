@@ -1,5 +1,4 @@
-xcode-ios7-colors
-=================
+# xcode-ios7-colors
 
 Xcode syntax highlighting iOS7 color scheme
 
