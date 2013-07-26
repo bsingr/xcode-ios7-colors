@@ -1,9 +1,12 @@
-xcode-ios7-colors
-=================
+# xcode-ios7-colors
 
-XCode syntax highlighting iOS7 color scheme
+Xcode syntax highlighting iOS7 color scheme
 
-## Development
+## Quick Install
+
+    curl https://raw.github.com/dpree/xcode-ios7-colors/master/install.sh | sh
+
+## Local Development
 
 ### Install
 
