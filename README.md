@@ -1,6 +1,8 @@
 # xcode-ios7-colors
 
-Xcode syntax highlighting iOS7 color scheme
+Xcode syntax highlighting iOS7 color scheme.
+
+![Screenshot](./screenshot.png)
 
 ## Quick Install
 
