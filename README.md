@@ -2,13 +2,21 @@
 
 Xcode syntax highlighting iOS7 color scheme.
 
-![Screenshot](./screenshot.png)
-
 ## Install
 
-You can install this theme using [Alcatraz XCode Package Manager](http://alcatraz.io/) by searching for `iOS 7` or executing the following script from your terminal:
+**Alcatraz**
+
+Search for `iOS 7` in [Alcatraz XCode Package Manager](http://alcatraz.io/)
+
+**Terminal**
+
+Just execute the this in your terminal:
 
     curl https://raw.github.com/dpree/xcode-ios7-colors/master/iOS%207.dvtcolortheme > "$HOME/Library/Developer/Xcode/UserData/FontAndColorThemes/iOS 7.dvtcolortheme"
+
+## Preview
+
+![Screenshot](./screenshot.png)
 
 ## Local Development
 
